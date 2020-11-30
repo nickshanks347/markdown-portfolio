@@ -1,4 +1,4 @@
-## Awesome attributes (with emphasis)
+## Awesome attributes (with emphasis):
 
 *Python*  
 **CSS**  
