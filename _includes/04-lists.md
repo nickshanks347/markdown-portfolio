@@ -1,7 +1,12 @@
-#### Replace this with a list of your favorite things.
+## Favourite Things:
 
-* TryHackMe:smile:
+* TryHackMe
 * HackTheBox
 * Collectors*NET
-* Nessus
-* SOC
+* Nessus vulnerabilities
+* SOC (Security Operations Centre)
+* Azure Logic Apps
+* MDATP
+* HTML and CSS coding
+* Technical Architecture
+    * MDT (Microsoft Deployment Toolkit)
